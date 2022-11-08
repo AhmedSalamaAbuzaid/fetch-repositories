@@ -9,6 +9,11 @@ body{
     margin:auto;
     background-color: #f6f6ff;
 }
+@media (min-width:678px) {
+    .repos-container {
+        max-width: 800px;
+    }
+}
 .msg {
     padding: 20px 20px 0;
     background-color: #eeeeee;
