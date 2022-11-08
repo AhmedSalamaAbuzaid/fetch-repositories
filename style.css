@@ -5,7 +5,7 @@ body{
     font-family: Tahoma,Arial;
 }
 .repos-container {
-    width: 800px;
+    min-width: 470px;
     margin:auto;
     background-color: #f6f6ff;
 }
